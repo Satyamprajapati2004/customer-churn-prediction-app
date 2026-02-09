@@ -19,7 +19,7 @@ Is project mein humne Machine Learning ka istemal kiya hai taaki business ko peh
 
 ## 🚀 Live Demo
 Aap meri app yahan live chala kar dekh sakte hain:
-👉 **[Aapka Streamlit Link Yahan Paste Karein]**
+https://customer-churn-prediction-app-kbev3spdvbevozdto62ld5.streamlit.app/#customer-churn-predictor-live
 
 ## 📂 Project Structure
 * `churn_app.py`: Main Python script jo UI aur Model logic sambhalti hai.
