@@ -1,6 +1,15 @@
 #  Telecom Customer Churn Prediction App
 
 ##  Project Overview
+#  Live Demo
+
+ **Try the application online:**
+
+https://customer-churn-prediction-app-kbev3spdvbevozdto62ld5.streamlit.app/
+
+The live application allows users to enter customer information and generate churn predictions in real time.
+
+---
 
 The **Telecom Customer Churn Prediction App** is an end-to-end **Machine Learning application** designed to predict whether a telecom customer is likely to **leave the service (Churn)** or remain with the company.
 
@@ -129,16 +138,6 @@ This allows users without programming knowledge to interact with the machine lea
 ##  Cloud Hosted Application
 
 The application is deployed using **Streamlit Cloud**, making it accessible through a web browser without requiring local Python or machine learning setup.
-
----
-
-#  Live Demo
-
- **Try the application online:**
-
-https://customer-churn-prediction-app-kbev3spdvbevozdto62ld5.streamlit.app/
-
-The live application allows users to enter customer information and generate churn predictions in real time.
 
 ---
 
