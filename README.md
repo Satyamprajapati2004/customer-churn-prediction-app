@@ -1,6 +1,6 @@
-# 🚀 Telecom Customer Churn Prediction App
+#  Telecom Customer Churn Prediction App
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Telecom Customer Churn Prediction App** is an end-to-end **Machine Learning application** designed to predict whether a telecom customer is likely to **leave the service (Churn)** or remain with the company.
 
@@ -12,7 +12,7 @@ The trained model is integrated into an interactive **Streamlit web application*
 
 ---
 
-# 🎯 Problem Statement
+#  Problem Statement
 
 Telecom companies manage a large number of customers with different usage patterns, service plans, contract types, and billing behaviors.
 
@@ -31,7 +31,7 @@ This project aims to use machine learning to:
 
 ---
 
-# 🏗️ System Architecture
+#  System Architecture
 
 ```text id="8q4q5g"
                 Telecom Customer Dataset
@@ -91,9 +91,9 @@ This project aims to use machine learning to:
 
 ---
 
-# ✨ Key Features
+#  Key Features
 
-## 🎯 Real-Time Churn Prediction
+##  Real-Time Churn Prediction
 
 Users can enter customer information into the Streamlit application and receive an immediate prediction.
 
@@ -111,7 +111,7 @@ NOT CHURN
 
 ---
 
-## 🖥️ Interactive User Interface
+##  Interactive User Interface
 
 The application provides an easy-to-use interface with:
 
@@ -126,15 +126,15 @@ This allows users without programming knowledge to interact with the machine lea
 
 ---
 
-## ☁️ Cloud Hosted Application
+##  Cloud Hosted Application
 
 The application is deployed using **Streamlit Cloud**, making it accessible through a web browser without requiring local Python or machine learning setup.
 
 ---
 
-# 🌐 Live Demo
+#  Live Demo
 
-🚀 **Try the application online:**
+ **Try the application online:**
 
 https://customer-churn-prediction-app-kbev3spdvbevozdto62ld5.streamlit.app/
 
@@ -142,7 +142,7 @@ The live application allows users to enter customer information and generate chu
 
 ---
 
-# 📊 Dataset
+#  Dataset
 
 The project uses the **Telco Customer Churn** dataset:
 
@@ -165,7 +165,7 @@ Typical customer attributes include areas such as:
 
 ---
 
-# 🧠 Machine Learning Workflow
+#  Machine Learning Workflow
 
 The project follows a complete machine learning pipeline.
 
@@ -199,7 +199,7 @@ Real-Time Prediction
 
 ---
 
-# 1️⃣ Data Preparation
+# 1️ Data Preparation
 
 The telecom customer dataset is first prepared for machine learning.
 
@@ -214,7 +214,7 @@ The preprocessing workflow can include:
 
 ---
 
-# 2️⃣ Feature Engineering
+# 2️ Feature Engineering
 
 Customer information is transformed into machine-learning-compatible features.
 
@@ -235,7 +235,7 @@ These features allow the model to identify behavioral patterns associated with c
 
 ---
 
-# 3️⃣ Model Training
+# 3️ Model Training
 
 The project uses **Scikit-Learn** for machine learning.
 
@@ -251,7 +251,7 @@ Customers who Stay
 
 ---
 
-# 4️⃣ Model Prediction
+# 4️ Model Prediction
 
 Once the model has been trained, new customer information can be passed to the model.
 
@@ -269,7 +269,7 @@ Churn / No Churn
 
 ---
 
-# 📈 Business Value
+#  Business Value
 
 Customer churn prediction can help telecom businesses identify customers who may be at risk of leaving.
 
@@ -286,7 +286,7 @@ For example, a company could prioritize potentially high-risk customers for proa
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text id="8w2zqe"
 customer-churn-prediction-app/
@@ -306,7 +306,7 @@ customer-churn-prediction-app/
 
 ---
 
-# ⚙️ How to Run Locally
+#  How to Run Locally
 
 ## Prerequisites
 
@@ -354,7 +354,7 @@ The application will then open in your browser.
 
 ---
 
-# 📦 Requirements
+#  Requirements
 
 The project dependencies are maintained in:
 
@@ -373,7 +373,7 @@ streamlit
 
 ---
 
-# 🔄 End-to-End Application Workflow
+#  End-to-End Application Workflow
 
 ```text id="4e6f9r"
 User Opens Application
@@ -400,7 +400,7 @@ Churn Probability / Prediction
 
 ---
 
-# ⭐ Key Highlights
+#  Key Highlights
 
 * End-to-end machine learning project
 * Telecom customer churn prediction
@@ -415,7 +415,7 @@ Churn Probability / Prediction
 
 ---
 
-# 💼 Business Use Case
+#  Business Use Case
 
 A telecom organization can use a churn prediction system as part of its customer retention strategy.
 
@@ -430,9 +430,9 @@ The prediction system can therefore serve as a starting point for developing mor
 
 ---
 
-# 🚀 Future Enhancements
+#  Future Enhancements
 
-## 🤖 Advanced Machine Learning
+##  Advanced Machine Learning
 
 Future versions could compare multiple algorithms such as:
 
@@ -452,7 +452,7 @@ Model performance could then be compared using:
 
 ---
 
-## 📊 Churn Probability Score
+##  Churn Probability Score
 
 Instead of only showing a binary result, the application could display the probability of churn.
 
@@ -468,7 +468,7 @@ This would allow businesses to prioritize high-risk customers.
 
 ---
 
-## 🎯 Customer Risk Segmentation
+##  Customer Risk Segmentation
 
 Customers could be divided into:
 
@@ -482,7 +482,7 @@ This could make the application more useful for customer retention teams.
 
 ---
 
-## 💡 Retention Recommendations
+##  Retention Recommendations
 
 The application could provide personalized recommendations based on predicted churn risk, such as:
 
@@ -494,7 +494,7 @@ The application could provide personalized recommendations based on predicted ch
 
 ---
 
-## ☁️ Production Enhancements
+##  Production Enhancements
 
 Future versions could include:
 
@@ -508,7 +508,7 @@ Future versions could include:
 
 ---
 
-# 📌 Project Information
+#  Project Information
 
 **Project Name:** Telecom Customer Churn Prediction App
 
@@ -530,7 +530,7 @@ Future versions could include:
 
 ---
 
-# 👨‍💻 Skills Demonstrated
+#  Skills Demonstrated
 
 This project demonstrates practical knowledge of:
 
@@ -553,14 +553,14 @@ This project demonstrates practical knowledge of:
 
 ---
 
-# 🌐 Live Application
+#  Live Application
 
-🚀 **Live Demo:**
+ **Live Demo:**
 
 https://customer-churn-prediction-app-kbev3spdvbevozdto62ld5.streamlit.app/
 
 ---
 
-# 📄 License
+#  License
 
 This project is intended for educational, portfolio, and machine learning demonstration purposes.
